@@ -1,4 +1,4 @@
-Hi, I am Gabriel Aceti...<br />
+Hi, I am Gabriel Aceti...👋<br />
 Welcome to my profile!
 
  <div>
